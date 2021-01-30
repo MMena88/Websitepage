@@ -1,7 +1,7 @@
 {
     "python.linting.pycodestyleEnabled": true,
     "python.linting.pycodestyleArgs": [
-      "--max-line-length=180"
+        "--max-line-length=180"
     ],
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
@@ -9,7 +9,7 @@
     //"editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "python.pythonPath": "C:\\Users\\balbi\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+    "python.pythonPath": "C:\\Users\\willy\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
     /*
       "python.testing.pytestEnabled": true,
       "python.testing.pytestArgs": [
@@ -21,4 +21,4 @@
       "python.testing.unittestEnabled": false,
       "python.testing.nosetestsEnabled": false
       */
-  }
+}
