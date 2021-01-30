@@ -1,24 +1,24 @@
 h1{
-    color:blue;
+    color:rgb(255, 0, 76);
     text-align: center;
     font-size: 36px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
 }
 p{
-    color: cornflowerblue;
+    color: rgb(255, 0, 149);
     text-align: center;
     font-size: 23px;
     margin-left: 10%;
     margin-right: 10%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
 
 }
 table{
-    border: #cccccc;
+    border: #888888;
     margin: auto;
 }
 .imagen{
     width: 300px;
     border-radius: 10px;
-    border: 1px solid #cccccc;
+    border: 1px solid #114455;
 }
